@@ -83,7 +83,7 @@
     "name": "StarCoder2-3B",
     "provider_url": "https://huggingface.co/bigcode/starcoder2-3b",
     "urls": [
-      "https://huggingface.co/nold/starcoder2-3b-GGUF/resolve/main/starcoder2-3b_Q4_0.gguf"
+      "https://huggingface.co/second-state/StarCoder2-3B-GGUF/blob/main/starcoder2-3b-Q4_0.gguf"
     ],
     "sha256": "0499b8d046c56934c9741fd00c6206a5f7ca0eb42b59304ab7f4a20cd2f28ebf"
   },
