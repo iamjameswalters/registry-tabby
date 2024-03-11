@@ -84,8 +84,7 @@
     "provider_url": "https://huggingface.co/bigcode/starcoder2-3b",
     "urls": [
       "https://huggingface.co/nold/starcoder2-3b-GGUF/blob/main/starcoder2-3b_Q3_K_M.gguf"
-    ],
-    "sha256": "0499b8d046c56934c9741fd00c6206a5f7ca0eb42b59304ab7f4a20cd2f28ebf"
+    ]    
   },
   {
     "license_name": "BigCode-OpenRAIL-M",
